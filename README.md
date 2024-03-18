@@ -3,9 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trushal1601&label=Profile%20views&color=0e75b6&style=flat" alt="trushal1601" /> </p>
 
+- 🔭 I’m currently pursuing **BCA**
+
 - 🌱 I’m currently improving **React, Javascript**
 
-- 👨‍💻 All of my projects are available at conveniently located right here, where you've magically landed like a coding wizard! 🧙‍♂️✨ #CheckItOut
+- 👨‍💻 All of my projects are available at [conveniently located right here, where you've magically landed like a coding wizard! 🧙‍♂️✨ #CheckItOut](conveniently located right here, where you've magically landed like a coding wizard! 🧙‍♂️✨ #CheckItOut)
 
 - 💬 Ask me about **Coding**
 
