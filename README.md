@@ -1,16 +1,3 @@
-trushal.prajapati1601@gmail.com
-Git: https://github.com/trushal1601
-Git password: Trushal@1601
-https://www.linkedin.com/in/trushal-prajapati-306aa2251
-
-
-
-
-
-
-
-
-
 <h1 align="center">Hi 👋, I'm Trushal B Prajapati</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 
