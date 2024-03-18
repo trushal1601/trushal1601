@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently improving **React, Javascript**
 
-- 👨‍💻 All of my projects are available at [conveniently located right here, where you've magically landed like a coding wizard! 🧙‍♂️✨ #CheckItOut](conveniently located right here, where you've magically landed like a coding wizard! 🧙‍♂️✨ #CheckItOut)
+- 👨‍💻 All of my projects are available at conveniently located right here, where you've magically landed like a coding wizard! 🧙‍♂️✨ #CheckItOut
 
 - 💬 Ask me about **Coding**
 
