@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trushal1601&label=Profile%20views&color=0e75b6&style=flat" alt="trushal1601" /> </p>
 
-- 🔭 **BCA** last year student
+- 🔭 **MCA** student
 
-- 🌱 I’m currently improving **React, Javascript**
+- 🌱 I’m currently improving **React, React Native, Javascript**
 
 - 👨‍💻 All of my projects are available at conveniently located right here, where you've magically landed like a coding wizard! 🧙‍♂️✨ #CheckItOut
 
